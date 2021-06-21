@@ -1,5 +1,5 @@
 {
-  "name": "@healcloud/prettier-config",
+  "name": "@hcloud/prettier-config",
   "version": "1.0.0",
   "description": "Prettier code format configuration",
   "main": "index.json",
