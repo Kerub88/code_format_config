@@ -1,0 +1,23 @@
+{
+  "name": "@healcloud/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier code format configuration",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kerub88/code_format_config.git"
+  },
+  "keywords": [
+    "prettier",
+    "format"
+  ],
+  "author": "SimonHC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kerub88/code_format_config/issues"
+  },
+  "homepage": "https://github.com/Kerub88/code_format_config#readme"
+}
